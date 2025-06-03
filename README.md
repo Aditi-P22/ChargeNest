@@ -62,3 +62,5 @@ Install all necessary dependencies for both backend and frontend.
 Configure your MongoDB connection URI in the backend .env file to ensure proper database connection.
 
 
+
+
